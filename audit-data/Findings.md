@@ -1029,7 +1029,7 @@ Add the emit function within the `PuppyRaffle::withdrawFees` function
     }
 ```
 
-### [L-3] Incorrectly calculated rarity attributes  (Root Cause + Impact)
+### [L-3] Incorrectly calculated rarity attributes
 
 **Description:** 
 
