@@ -286,7 +286,7 @@ Change the contracts state before the funds are sent.
 
 
 
-### [H-3] Randomness relies on known blockchain variables and ca, Attackers can ensure they will win the raffle and receive the NFT. 
+### [H-3] Randomness relies on known blockchain variables and can be gamed. Attackers can ensure they will win the raffle and receive the NFT. 
 
 **Description:** 
 All of the factors that are used to create a random number are known, the random number isn't random.
